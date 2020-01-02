@@ -1,104 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4a9c435-72bc-4bda-b2d6-d85bdae48307" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="f4a9c435-72bc-4bda-b2d6-d85bdae48307" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/字符串/之字形打印.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串/字符串转数字.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串/罗马数字转整数.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数组/乘水量.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数组/最多水的容器.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/二叉树的层次遍历.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/判断平衡二叉树.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/正则表达式/1去掉字符串首尾空格.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/正则表达式/千位分隔符.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/正则表达式/电话号码.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/字符串/反转字符串.js" beforeDir="false" afterPath="$PROJECT_DIR$/字符串/反转字符串.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数组/下一个排列.js" beforeDir="false" afterPath="$PROJECT_DIR$/数组/排列/下一个排列.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数组/全排列.js" beforeDir="false" afterPath="$PROJECT_DIR$/数组/排列/全排列.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/树/二叉树之字形遍历.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-83">
-              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/树/二叉树的最近公共祖先.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/树/二叉树的所有路径.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数组/合并两个有序数组.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/树/二叉树的序列化与反序列化.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/树/二叉树的中序遍历.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/树/二叉树后序遍历.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/链表/合并两个有序链表.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/树/路径总和.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/字符串/逆波兰表达式求值.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -108,62 +30,8 @@
       </list>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/剑指offer/面试题21：调整数组顺序使奇数位于偶数前面.js" />
-        <option value="$PROJECT_DIR$/剑指offer/面试题22：链表中倒数第k个节点.js" />
-        <option value="$PROJECT_DIR$/剑指offer/最长公共子序列.js" />
-        <option value="$PROJECT_DIR$/剑指offer/面试题23：链表中环的入口节点.js" />
-        <option value="$PROJECT_DIR$/动态规划/最长回文字串.js" />
-        <option value="$PROJECT_DIR$/剑指offer/面试题24：反转链表.js" />
-        <option value="$PROJECT_DIR$/剑指offer/面试题25：合并两个排序的链表.js" />
-        <option value="$PROJECT_DIR$/剑指offer/面试题26：树的子结构.js" />
-        <option value="$PROJECT_DIR$/剑指offer/面试题10：斐波那契数列.js" />
-        <option value="$PROJECT_DIR$/test/信封.js" />
-        <option value="$PROJECT_DIR$/链表/环形链表2.js" />
-        <option value="$PROJECT_DIR$/树/二叉树之字形遍历.js" />
-        <option value="$PROJECT_DIR$/test/1.js" />
-        <option value="$PROJECT_DIR$/动态规划/最大正方形.js" />
-        <option value="$PROJECT_DIR$/动态规划/三角形最小路径和.js" />
-        <option value="$PROJECT_DIR$/动态规划/最长递增子序列.js" />
-        <option value="$PROJECT_DIR$/数据结构/LRU缓存.js" />
-        <option value="$PROJECT_DIR$/树/二叉树的最大深度.js" />
-        <option value="$PROJECT_DIR$/树/对称（镜像）二叉树.js" />
-        <option value="$PROJECT_DIR$/树/从中序和后序序列构造二叉树.js" />
-        <option value="$PROJECT_DIR$/树/二叉树的最近公共祖先.js" />
-        <option value="$PROJECT_DIR$/树/填充每个节点的下一个右侧节点.js" />
-        <option value="$PROJECT_DIR$/树/二叉树的序列化与反序列化.js" />
-        <option value="$PROJECT_DIR$/字符串/无重复字符的最长字串.js" />
-        <option value="$PROJECT_DIR$/数组/数组全排列.js" />
-        <option value="$PROJECT_DIR$/../test/2/str.js" />
-        <option value="$PROJECT_DIR$/字符串/字符串相乘.js" />
-        <option value="$PROJECT_DIR$/贪心算法.js" />
-        <option value="$PROJECT_DIR$/剑指offer/面试题11：旋转数组的最小数字.js" />
-        <option value="$PROJECT_DIR$/排序与搜索/二分查找.js" />
-        <option value="$PROJECT_DIR$/字符串/中序转逆波兰表达式.js" />
-        <option value="$PROJECT_DIR$/树/判断完全二叉树.js" />
-        <option value="$PROJECT_DIR$/树/二叉树的所有路径.js" />
-        <option value="$PROJECT_DIR$/树/路径总和2.js" />
-        <option value="$PROJECT_DIR$/树/路径总和.js" />
-        <option value="$PROJECT_DIR$/树/路径总和3.js" />
-        <option value="$PROJECT_DIR$/排序与搜索/冒泡排序.js" />
-        <option value="$PROJECT_DIR$/排序与搜索/归并排序.js" />
-        <option value="$PROJECT_DIR$/排序与搜索/堆排序.js" />
-        <option value="$PROJECT_DIR$/动态规划/最小路径和.js" />
-        <option value="$PROJECT_DIR$/动态规划/最长公共子序列.js" />
-        <option value="$PROJECT_DIR$/数组/k-sum" />
-        <option value="$PROJECT_DIR$/数组/k-sum.js" />
-        <option value="$PROJECT_DIR$/树/二叉树后序遍历.js" />
-        <option value="$PROJECT_DIR$/树/二叉树前序遍历.js" />
-        <option value="$PROJECT_DIR$/树/二叉树的中序遍历.js" />
-        <option value="$PROJECT_DIR$/动态规划/0-1背包.js" />
-        <option value="$PROJECT_DIR$/动态规划/背包.js" />
-        <option value="$PROJECT_DIR$/字符串/大数相乘.js" />
-        <option value="$PROJECT_DIR$/数组/全排列.js" />
-        <option value="$PROJECT_DIR$/字符串/逆波兰表达式求值.js" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -171,40 +39,12 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="713" />
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="797" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="算法" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法" type="462c0819:PsiDirectoryNode" />
-              <item name="树" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法" type="462c0819:PsiDirectoryNode" />
-              <item name="链表" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1V9nOmk7BVMoLPRheGM29khe6JW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -221,36 +61,46 @@
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/数组/排列" />
+      <recent name="$PROJECT_DIR$/链表" />
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/字符串" />
+      <recent name="$PROJECT_DIR$/回溯算法" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/链表" />
       <recent name="$PROJECT_DIR$/字符串" />
       <recent name="$PROJECT_DIR$/排序与搜索" />
       <recent name="$PROJECT_DIR$/动态规划" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/链表" />
-      <recent name="$PROJECT_DIR$/test" />
-      <recent name="$PROJECT_DIR$/字符串" />
-      <recent name="$PROJECT_DIR$/回溯算法" />
-    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Node.js.逆波兰表达式求值.js">
-    <configuration name="逆波兰表达式求值.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/字符串/逆波兰表达式求值.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.千位分隔符.js">
+    <configuration name="1去掉字符串首尾空格.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/正则表达式/1去掉字符串首尾空格.js" working-dir="$PROJECT_DIR$/正则表达式">
       <method v="2" />
     </configuration>
-    <configuration name="大数相乘.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/字符串/大数相乘.js" working-dir="$PROJECT_DIR$">
+    <configuration name="千位分隔符.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/正则表达式/千位分隔符.js" working-dir="$PROJECT_DIR$/正则表达式">
+      <method v="2" />
+    </configuration>
+    <configuration name="二叉树的层次遍历.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/树/二叉树的层次遍历.js" working-dir="$PROJECT_DIR$/树">
+      <method v="2" />
+    </configuration>
+    <configuration name="三角形最小路径和.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/动态规划/三角形最小路径和.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="组合总和.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/数组/组合总和.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="电话号码.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/正则表达式/电话号码.js" working-dir="$PROJECT_DIR$/正则表达式">
+      <method v="2" />
+    </configuration>
+    <configuration name="判断平衡二叉树.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/树/判断平衡二叉树.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="下一个排列.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/数组/下一个排列.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="快排.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test/快排.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="组合总和.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/数组/组合总和.js" working-dir="$PROJECT_DIR$">
@@ -262,19 +112,43 @@
     <configuration name="全排列.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/数组/全排列.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="三数之和.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/数组/三数之和.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="环形链表.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/链表/环形链表.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="最长公共子序列.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/动态规划/最长公共子序列.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <configuration name="排序链表.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/排序与搜索/排序链表.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="二叉树的最近公共祖先.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/排序与搜索/二叉树的最近公共祖先.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="罗马数字转整数.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/字符串/罗马数字转整数.js" working-dir="$PROJECT_DIR$/字符串">
+      <method v="2" />
+    </configuration>
+    <configuration name="全排列.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/数组/全排列.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="最多水的容器.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/数组/最多水的容器.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <configuration name="二叉树的序列化与反序列化.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/树/二叉树的序列化与反序列化.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="括号生成.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/回溯算法/括号生成.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="最大正方形.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/动态规划/最大正方形.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="二分查找.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test/二分查找.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="两两交换链表中的节点.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/链表/两两交换链表中的节点.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="三数之和.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/数组/三数之和.js" working-dir="$PROJECT_DIR$">
@@ -289,13 +163,16 @@
     <configuration name="数组全排列.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/数组/数组全排列.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="找到单链表的中间节点.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/排序与搜索/找到单链表的中间节点.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="最长公共子序列.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/动态规划/最长公共子序列.js" working-dir="$PROJECT_DIR$">
+    <configuration name="二叉树中序.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/字节跳动/二叉树中序.js" working-dir="$PROJECT_DIR$/字节跳动">
       <method v="2" />
     </configuration>
     <configuration name="在排序数组中查找元素的第一个和最后一个位置.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/数组/在排序数组中查找元素的第一个和最后一个位置.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="两数相加.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/链表/两数相加.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="找到单链表的中间节点.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/排序与搜索/找到单链表的中间节点.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="删除链表中的节点.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/链表/删除链表中的节点.js" working-dir="$PROJECT_DIR$">
@@ -304,42 +181,49 @@
     <configuration name="二叉树中的最大路径和.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/排序与搜索/二叉树中的最大路径和.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="环形链表.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/链表/环形链表.js" working-dir="$PROJECT_DIR$">
+    <configuration name="二叉树最大深度.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/排序与搜索/二叉树最大深度.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="二叉树最大深度.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/排序与搜索/二叉树最大深度.js" working-dir="$PROJECT_DIR$">
+    <configuration name="反转字符串.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/字符串/反转字符串.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="大数相乘.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/字符串/大数相乘.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="最长回文字串.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/动态规划/最长回文字串.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="两两交换链表中的节点.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/链表/两两交换链表中的节点.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
     <configuration name="二叉搜索树的最近公共祖先.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/排序与搜索/二叉搜索树的最近公共祖先.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="三角形最小路径和.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/动态规划/三角形最小路径和.js" working-dir="$PROJECT_DIR$">
+    <configuration name="乘水量.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/数组/乘水量.js" working-dir="$PROJECT_DIR$/数组">
       <method v="2" />
     </configuration>
-    <configuration name="组合总和.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/数组/组合总和.js" working-dir="$PROJECT_DIR$">
+    <configuration name="字符串转数字.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/字符串/字符串转数字.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="下一个排列.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/数组/下一个排列.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="快排.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test/快排.js" working-dir="$PROJECT_DIR$">
+    <configuration name="之字形打印.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/字符串/之字形打印.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.逆波兰表达式求值.js" />
-        <item itemvalue="Node.js.全排列.js" />
-        <item itemvalue="Node.js.组合总和.js" />
-        <item itemvalue="Node.js.大数相乘.js" />
-        <item itemvalue="Node.js.字符串解压.js" />
+        <item itemvalue="Node.js.千位分隔符.js" />
+        <item itemvalue="Node.js.二叉树的层次遍历.js" />
+        <item itemvalue="Node.js.1去掉字符串首尾空格.js" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -369,12 +253,18 @@
       <workItem from="1558744218295" duration="10231000" />
       <workItem from="1558835676169" duration="17548000" />
       <workItem from="1559037307810" duration="1572000" />
-      <workItem from="1559117504893" duration="20182000" />
+      <workItem from="1559117504893" duration="20405000" />
+      <workItem from="1559655314680" duration="1952000" />
+      <workItem from="1559880681812" duration="587000" />
+      <workItem from="1561016971030" duration="1127000" />
+      <workItem from="1561131641071" duration="2390000" />
+      <workItem from="1567927189591" duration="3691000" />
+      <workItem from="1576674152328" duration="2024000" />
+      <workItem from="1576760808252" duration="4297000" />
+      <workItem from="1577925852783" duration="75000" />
+      <workItem from="1577964240248" duration="1312000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="199684000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -385,30 +275,114 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="713" y="23" width="1440" height="797" extended-state="1" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14164905" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49964765" visible="true" weight="0.39574468" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.33758864" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32907802" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5003524" side_tool="true" visible="true" weight="0.39574468" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="586" height="322" key="GridCell.Tab.0.bottom" timestamp="1577966254691">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="586" height="322" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1577966254691" />
+    <state width="590" height="187" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1577276279185" />
+    <state width="428" height="322" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1577754991476" />
+    <state width="428" height="322" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1577711378944" />
+    <state width="428" height="106" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1577711122426" />
+    <state width="586" height="322" key="GridCell.Tab.0.center" timestamp="1577966254690">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="586" height="322" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1577966254690" />
+    <state width="590" height="187" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1577276279184" />
+    <state width="428" height="322" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1577754991475" />
+    <state width="428" height="322" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1577711378943" />
+    <state width="428" height="106" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1577711122425" />
+    <state width="586" height="322" key="GridCell.Tab.0.left" timestamp="1577966254690">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="586" height="322" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1577966254690" />
+    <state width="590" height="187" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1577276279183" />
+    <state width="428" height="322" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1577754991475" />
+    <state width="428" height="322" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1577711378943" />
+    <state width="428" height="106" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1577711122424" />
+    <state width="586" height="322" key="GridCell.Tab.0.right" timestamp="1577966254691">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="586" height="322" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1577966254691" />
+    <state width="590" height="187" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1577276279184" />
+    <state width="428" height="322" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1577754991475" />
+    <state width="428" height="322" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1577711378944" />
+    <state width="428" height="106" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1577711122425" />
+    <state width="593" height="210" key="GridCell.Tab.1.bottom" timestamp="1577966231215">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="593" height="210" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1577966231215" />
+    <state width="596" height="210" key="GridCell.Tab.1.bottom/0.23.1440.798@0.23.1440.798" timestamp="1577276250594" />
+    <state width="596" height="210" key="GridCell.Tab.1.bottom/0.23.1440.811@0.23.1440.811" timestamp="1577706710765" />
+    <state width="593" height="210" key="GridCell.Tab.1.center" timestamp="1577966231215">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="593" height="210" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1577966231215" />
+    <state width="596" height="210" key="GridCell.Tab.1.center/0.23.1440.798@0.23.1440.798" timestamp="1577276250593" />
+    <state width="596" height="210" key="GridCell.Tab.1.center/0.23.1440.811@0.23.1440.811" timestamp="1577706710764" />
+    <state width="593" height="210" key="GridCell.Tab.1.left" timestamp="1577966231214">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="593" height="210" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1577966231214" />
+    <state width="596" height="210" key="GridCell.Tab.1.left/0.23.1440.798@0.23.1440.798" timestamp="1577276250589" />
+    <state width="596" height="210" key="GridCell.Tab.1.left/0.23.1440.811@0.23.1440.811" timestamp="1577706710763" />
+    <state width="593" height="210" key="GridCell.Tab.1.right" timestamp="1577966231215">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="593" height="210" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1577966231215" />
+    <state width="596" height="210" key="GridCell.Tab.1.right/0.23.1440.798@0.23.1440.798" timestamp="1577276250594" />
+    <state width="596" height="210" key="GridCell.Tab.1.right/0.23.1440.811@0.23.1440.811" timestamp="1577706710764" />
+    <state width="593" height="210" key="GridCell.Tab.2.bottom" timestamp="1577966231216">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="593" height="210" key="GridCell.Tab.2.bottom/0.23.1440.797@0.23.1440.797" timestamp="1577966231216" />
+    <state width="596" height="210" key="GridCell.Tab.2.bottom/0.23.1440.798@0.23.1440.798" timestamp="1577276250595" />
+    <state width="596" height="210" key="GridCell.Tab.2.bottom/0.23.1440.811@0.23.1440.811" timestamp="1577706710766" />
+    <state width="593" height="210" key="GridCell.Tab.2.center" timestamp="1577966231216">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="593" height="210" key="GridCell.Tab.2.center/0.23.1440.797@0.23.1440.797" timestamp="1577966231216" />
+    <state width="596" height="210" key="GridCell.Tab.2.center/0.23.1440.798@0.23.1440.798" timestamp="1577276250595" />
+    <state width="596" height="210" key="GridCell.Tab.2.center/0.23.1440.811@0.23.1440.811" timestamp="1577706710765" />
+    <state width="593" height="210" key="GridCell.Tab.2.left" timestamp="1577966231216">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="593" height="210" key="GridCell.Tab.2.left/0.23.1440.797@0.23.1440.797" timestamp="1577966231216" />
+    <state width="596" height="210" key="GridCell.Tab.2.left/0.23.1440.798@0.23.1440.798" timestamp="1577276250595" />
+    <state width="596" height="210" key="GridCell.Tab.2.left/0.23.1440.811@0.23.1440.811" timestamp="1577706710765" />
+    <state width="593" height="210" key="GridCell.Tab.2.right" timestamp="1577966231216">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="593" height="210" key="GridCell.Tab.2.right/0.23.1440.797@0.23.1440.797" timestamp="1577966231216" />
+    <state width="596" height="210" key="GridCell.Tab.2.right/0.23.1440.798@0.23.1440.798" timestamp="1577276250595" />
+    <state width="596" height="210" key="GridCell.Tab.2.right/0.23.1440.811@0.23.1440.811" timestamp="1577706710766" />
+    <state width="593" height="210" key="GridCell.Tab.3.bottom" timestamp="1577966231217">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="593" height="210" key="GridCell.Tab.3.bottom/0.23.1440.797@0.23.1440.797" timestamp="1577966231217" />
+    <state width="596" height="210" key="GridCell.Tab.3.bottom/0.23.1440.798@0.23.1440.798" timestamp="1577276250596" />
+    <state width="596" height="210" key="GridCell.Tab.3.bottom/0.23.1440.811@0.23.1440.811" timestamp="1577706710767" />
+    <state width="593" height="210" key="GridCell.Tab.3.center" timestamp="1577966231217">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="593" height="210" key="GridCell.Tab.3.center/0.23.1440.797@0.23.1440.797" timestamp="1577966231217" />
+    <state width="596" height="210" key="GridCell.Tab.3.center/0.23.1440.798@0.23.1440.798" timestamp="1577276250596" />
+    <state width="596" height="210" key="GridCell.Tab.3.center/0.23.1440.811@0.23.1440.811" timestamp="1577706710767" />
+    <state width="593" height="210" key="GridCell.Tab.3.left" timestamp="1577966231217">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="593" height="210" key="GridCell.Tab.3.left/0.23.1440.797@0.23.1440.797" timestamp="1577966231217" />
+    <state width="596" height="210" key="GridCell.Tab.3.left/0.23.1440.798@0.23.1440.798" timestamp="1577276250596" />
+    <state width="596" height="210" key="GridCell.Tab.3.left/0.23.1440.811@0.23.1440.811" timestamp="1577706710766" />
+    <state width="593" height="210" key="GridCell.Tab.3.right" timestamp="1577966231217">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="593" height="210" key="GridCell.Tab.3.right/0.23.1440.797@0.23.1440.797" timestamp="1577966231217" />
+    <state width="596" height="210" key="GridCell.Tab.3.right/0.23.1440.798@0.23.1440.798" timestamp="1577276250596" />
+    <state width="596" height="210" key="GridCell.Tab.3.right/0.23.1440.811@0.23.1440.811" timestamp="1577706710767" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -424,12 +398,12 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/数组/下一个排列.js</url>
+          <url>file://$PROJECT_DIR$/数组/排列/下一个排列.js</url>
           <line>3</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/数组/下一个排列.js</url>
+          <url>file://$PROJECT_DIR$/数组/排列/下一个排列.js</url>
           <line>35</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
@@ -493,20 +467,96 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/动态规划/最长公共子序列.js</url>
           <line>1</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/动态规划/最长公共子序列.js</url>
           <line>30</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/字符串/字符串转数字.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/字符串/字符串转数字.js</url>
+          <line>43</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/字符串/之字形打印.js</url>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/字符串/之字形打印.js</url>
+          <line>19</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/数组/最多水的容器.js</url>
+          <line>5</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/数组/最多水的容器.js</url>
+          <line>16</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/并查集/朋友圈.js</url>
+          <line>6</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/并查集/朋友圈.js</url>
+          <line>48</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/数组/乘水量.js</url>
+          <line>19</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/数组/乘水量.js</url>
+          <line>20</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/字符串/罗马数字转整数.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/字符串/罗马数字转整数.js</url>
+          <line>33</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/字节跳动/二叉树中序.js</url>
+          <line>11</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/字节跳动/二叉树中序.js</url>
+          <line>46</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/树/二叉树的层次遍历.js</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/树/二叉树的层次遍历.js</url>
+          <line>37</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
-        <breakpoint enabled="true" type="javascript-exception">
-          <properties />
-        </breakpoint>
+        <breakpoint enabled="true" type="javascript-exception" />
       </default-breakpoints>
     </breakpoint-manager>
   </component>
@@ -518,382 +568,5 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/数组/数组全排列.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../test/2/str.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/贪心算法.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/树/从中序和后序序列构造二叉树.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数组/三数之和.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划/三角形最小路径和.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="16" selection-start-line="1" selection-start-column="4" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指offer/面试题8：二叉树的下一个节点.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指offer/面试题11：旋转数组的最小数字.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="42" column="2" lean-forward="true" selection-start-line="26" selection-end-line="42" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/排序与搜索/二分查找.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/树/判断完全二叉树.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/树/路径总和2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/树/路径总和3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="36" column="11" lean-forward="true" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/排序与搜索/冒泡排序.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/排序与搜索/二叉搜索树中第k小元素.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/排序与搜索/归并排序.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/排序与搜索/快速排序.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-231" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/排序与搜索/堆排序.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划/不同路径.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="24" selection-start-line="1" selection-start-column="4" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划/最小路径和.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划/最大子序和.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划/最大子序和-动态规划.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-22">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/字符串/无重复字符的最长字串.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/字符串/最长公共前缀.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划/爬楼梯.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划/最长递增子序列.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="670">
-          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划/最长公共子序列.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划/最长回文字串.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数组/k-sum">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数组/k-sum.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/树/二叉树前序遍历.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/字符串/大数相加.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-390" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/字符串/中序转逆波兰表达式.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划/0-1背包.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划/背包.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数组/下一个排列.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-188">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数组/寻找两个有序数组的中位数.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/字符串/字符串解压.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/字符串/大数相乘.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-288">
-          <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数组/组合总和.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数组/全排列.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表/合并k个有序链表.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-457" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数组/合并两个有序数组.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表/合并两个有序链表.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/树/路径总和.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/字符串/逆波兰表达式求值.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/树/二叉树之字形遍历.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-83">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/树/二叉树的最近公共祖先.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/树/二叉树的所有路径.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/树/二叉树的序列化与反序列化.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/树/二叉树的中序遍历.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/树/二叉树后序遍历.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
