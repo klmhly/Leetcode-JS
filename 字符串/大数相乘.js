@@ -24,6 +24,7 @@ function mulStr(nums1,nums2) {
         res[i] = bit
     }
 
+    res[0] += pos
     // 判断首位
     if(res[0]=='0'){
         res.shift()
